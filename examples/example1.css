@@ -8,7 +8,6 @@ font-family: 'Source-Serif-Pro';
 h2 margin top 700px
 */
 
-
 * {
 	box-sizing: border-box;
 }
@@ -20,7 +19,7 @@ body {
 	margin: 0;
 }
 header {
-	background-image: url(../images/sojourner-header.png);
+	background-image: url(../images/mariusphoto.jpg);
 	background-size: cover;
 	width: 100vw;
 }
@@ -47,7 +46,7 @@ h2 {
 	margin-top: 400px;
 	margin-right: 40px;
 	text-align: right;
-	
+	color: #262626;
 }
 
 p {
@@ -77,7 +76,7 @@ blockquote::before {
   content: "“";
 }
 
-blockquote em { font-weight: bold; color: #ffa64d; font-size: 65px; }
+blockquote em { font-weight: bold; color: #00e6e6; font-size: 65px; }
 
 
 .grid-main {
